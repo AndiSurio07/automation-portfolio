@@ -1,5 +1,3 @@
-Facebook Page Message Email Notifier (Zapier Automation)
-
 Overview
 This Zap automatically sends an email notification whenever the Facebook Page receives a new message.
 
