@@ -10,44 +10,46 @@ I built an automation that:
 <li>Saves submissions to Google Sheets</li>
 <li>Sends a confirmation email back to the sender</li>
 <br>
-The workflow is split into two Zaps to follow Zapier’s single-trigger setup and free-plan limitations.
-
+The workflow is split into two Zaps to follow Zapier’s single-trigger setup and free-plan limitations.</br>
+<br>
 <b>How It Works</b>
 <li>Zap 1 – Inquiry Auto Reply</li>
 <li>Trigger: New inquiry email in Gmail</li>
 <li>Action: Automatically sends a Google Form link</li>
 <li>Purpose: Guide users to submit complete and structured information.</li>
 <li>Zap 2 – Form Processing & Confirmation</li>
-<li>Trigger: New Google Form response</li>
-
-<b>Actions:</b>
+<li>Trigger: New Google Form response</li></br>
+<br>
+<b>Actions:
 <li>Save data to Google Sheets</li>
 <li>Send a confirmation email to the user</li>
-<li>Purpose: Store inquiry data and acknowledge receipt automatically.</li>
-
+<li>Purpose: Store inquiry data and acknowledge receipt automatically.</li></b>
+<br>
 <b>Tools Used</b>
-Zapier
-Gmail
-Google Forms
-Google Sheets
+<li>Zapier</li>
+<li>Gmail</li>
+<li>Google Forms</li>
+<li>Google Sheets</li></br>
 
 <b>Key Highlights:</b>
-Fully automated inquiry flow
-Clean and structured data collection
-Spreadsheet-based tracking
-Built within free-plan constraints
-Easy to scale with paid plans or other tools
-
-<b>Notes</b>
-This project was intentionally built using Zapier’s free plan. In a production environment, the same logic can be extended using paid Zapier features or alternative tools like n8n or Make.
-
+<li>Fully automated inquiry flow</li>
+<li>Clean and structured data collection</li>
+<li>Spreadsheet-based tracking</li>
+<li>Built within free-plan constraints</li>
+<li>Easy to scale with paid plans or other tools</li>
+<br>
+<b>Notes:</b>
+This project was intentionally built using Zapier’s free plan. In a production environment, the same logic can be extended using paid Zapier features or alternative tools like n8n or Make.</br>
+<br>
 <b>Can be use for:</b>
-Customer inquiries
-Service request intake
-E-commerce support
-Internal request forms
+<li>Customer inquiries</li>
+<li>Service request intake</li>
+<li>E-commerce support</li>
+<li>Internal request forms</li></br>
+
 
 <b>Zap overview</b>
+
 
 <img width="907" height="599" alt="image" src="https://github.com/user-attachments/assets/1575d432-72e7-42a4-b2fd-e2ea11985391" />
 <img width="994" height="716" alt="image" src="https://github.com/user-attachments/assets/e7fe63db-de3b-4d73-bb79-0f9df963e2e1" />
@@ -67,7 +69,8 @@ Internal request forms
 
 <img width="740" height="453" alt="image" src="https://github.com/user-attachments/assets/78b40c55-9e9d-4696-8049-c4405091d6a1" />
 
-<b>Author</b>
-<b>Andi Surio</b>
-Automation & Operations Specialist
+<hr>
+<br><b>Author</b></br>
+<br><b>Andi Surio</b></hr></br>
+Automation & Operations Specialist |
 Zapier • Google Workspace • Process Automation
