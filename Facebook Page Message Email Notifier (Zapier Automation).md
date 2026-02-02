@@ -12,3 +12,6 @@ Purpose
 To help businesses never miss a customer inquiry.
 
 Please see attached Zapier Workflow Screenshot
+
+
+<img width="958" height="728" alt="image" src="https://github.com/user-attachments/assets/7a749de6-b0fe-44d9-b0f7-ad0e01708aca" />
