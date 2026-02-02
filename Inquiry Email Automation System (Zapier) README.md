@@ -5,34 +5,33 @@ Handling inquiries through email alone can be messy and time-consuming. Details 
 <b>The Solution</b>
 
 I built an automation that:
-<li>Replies to inquiry emails with a Google Form
-Collects responses in a structured way
-Saves submissions to Google Sheets
-Sends a confirmation email back to the sender</li>
+<li>Replies to inquiry emails with a Google Form</li>
+<li>Collects responses in a structured way</li>
+<li>Saves submissions to Google Sheets</li>
+<li>Sends a confirmation email back to the sender</li>
+<br>
+The workflow is split into two Zaps to follow Zapier’s single-trigger setup and free-plan limitations.
 
-  
-The workflow is split into two Zaps to follow Zapier’s single-trigger setup and free-plan limitations.:
+<b>How It Works</b>
+<li>Zap 1 – Inquiry Auto Reply</li>
+<li>Trigger: New inquiry email in Gmail</li>
+<li>Action: Automatically sends a Google Form link</li>
+<li>Purpose: Guide users to submit complete and structured information.</li>
+<li>Zap 2 – Form Processing & Confirmation</li>
+<li>Trigger: New Google Form response</li>
 
-How It Works
-Zap 1 – Inquiry Auto Reply
-Trigger: New inquiry email in Gmail
-Action: Automatically sends a Google Form link
-Purpose: Guide users to submit complete and structured information.
-Zap 2 – Form Processing & Confirmation
-Trigger: New Google Form response
+<b>Actions:</b>
+<li>Save data to Google Sheets</li>
+<li>Send a confirmation email to the user</li>
+<li>Purpose: Store inquiry data and acknowledge receipt automatically.</li>
 
-Actions:
-Save data to Google Sheets
-Send a confirmation email to the user
-Purpose: Store inquiry data and acknowledge receipt automatically.
-
-Tools Used
+<b>Tools Used</b>
 Zapier
 Gmail
 Google Forms
 Google Sheets
 
-Key Highlights:
+<b>Key Highlights:</b>
 Fully automated inquiry flow
 Clean and structured data collection
 Spreadsheet-based tracking
