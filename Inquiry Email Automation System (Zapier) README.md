@@ -2,7 +2,7 @@ This project is a simple automation built using Zapier and Google Workspace tool
 
 Handling inquiries through email alone can be messy and time-consuming. Details are often incomplete, hard to track, and require manual follow-ups.
 
-The Solution
+<b>The Solution</b>
 
 I built an automation that:
 Replies to inquiry emails with a Google Form
