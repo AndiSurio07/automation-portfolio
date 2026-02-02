@@ -62,6 +62,7 @@ Inquiry Responses Data
 <img width="1798" height="861" alt="image" src="https://github.com/user-attachments/assets/7c7f1388-b26d-461f-b489-d348ad5aab9e" />
 
 Sample E-mail confirmation
+
 <img width="740" height="453" alt="image" src="https://github.com/user-attachments/assets/78b40c55-9e9d-4696-8049-c4405091d6a1" />
 
 Author
