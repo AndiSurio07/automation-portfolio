@@ -47,6 +47,7 @@ E-commerce support
 Internal request forms
 
 Zap overview
+
 <img width="907" height="599" alt="image" src="https://github.com/user-attachments/assets/1575d432-72e7-42a4-b2fd-e2ea11985391" />
 <img width="994" height="716" alt="image" src="https://github.com/user-attachments/assets/e7fe63db-de3b-4d73-bb79-0f9df963e2e1" />
 
