@@ -5,11 +5,13 @@ Handling inquiries through email alone can be messy and time-consuming. Details 
 <b>The Solution</b>
 
 I built an automation that:
-Replies to inquiry emails with a Google Form
+<li>Replies to inquiry emails with a Google Form
 Collects responses in a structured way
 Saves submissions to Google Sheets
-Sends a confirmation email back to the sender
-The workflow is split into two Zaps to follow Zapier’s single-trigger setup and free-plan limitations.
+Sends a confirmation email back to the sender</li>
+
+  
+The workflow is split into two Zaps to follow Zapier’s single-trigger setup and free-plan limitations.:
 
 How It Works
 Zap 1 – Inquiry Auto Reply
